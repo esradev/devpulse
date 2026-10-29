@@ -1,0 +1,6 @@
+{
+  "name": "DevPulse: Interactive Code Academy",
+  "description": "Master programming languages through hands-on challenges, daily streaks, community discussions, and verified certificates in English, Persian (فارسی), and Arabic (العربية).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
